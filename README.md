@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+https://www.instagram.com/qatrixhunters/
+
+https://www.linkedin.com/in/qatrix-hunters/
+
 <!--
 **qa-trix/qa-trix** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

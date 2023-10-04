@@ -23,11 +23,6 @@
   <img align="center" alt="VsCode" height="40" width="40" src="https://skillicons.dev/icons?i=vscode" />
   <img align="center" alt="Android" height="40" width="40" src="https://skillicons.dev/icons?i=androidstudio" />
 </div>
-<br><br>
-<div align="center">
-  <a href="https://github.com/qatrixtecnologia">
-</div>  
- <br><br>
 
 <!--
-**qa-trix/qa-trix** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**qatrixtecnologia/qatrixtecnologia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

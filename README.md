@@ -1,9 +1,9 @@
 ### Hi there 👋
 
 <p align="center">
-<a href="https://www.linkedin.com/in/qatrix-hunters/" target="_blank"><img src="https://img.shields.io/badge/-Linkedin-6610F2?style=for-the-badge&logo=Linkedin&logoColor=FFFFFF&link=https://www.linkedin.com/in/qatrix-hunters/"/>
+<a href="https://www.linkedin.com/in/qatrix-hunters/" target="_blank"><img src="https://img.shields.io/badge/-Linkedin-6610F2?style=for-the-badge&logo=Linkedin&logoColor=FFFFFF&link=https://www.linkedin.com/in/qatrixtecnologia/"/>
 <a href="https://github.com/qa-trix" target="_blank"><img src="https://img.shields.io/badge/-GitHub.Io-6610F2?style=for-the-badge&logo=Linktree&logoColor=FFFFFF&link=[https://github.com/qa-trix]"/> 
-<a href="https://www.instagram.com/qatrixhunters" target="_blank"><img src="https://img.shields.io/badge/-Instagram-6610F2?style=for-the-badge&logo=Instagram&logoColor=FFFFFF&link=https://www.instagram.com/qatrixhunters"/>
+<a href="https://www.instagram.com/qatrixhunters" target="_blank"><img src="https://img.shields.io/badge/-Instagram-6610F2?style=for-the-badge&logo=Instagram&logoColor=FFFFFF&link=https://www.instagram.com/qatrixtecnologia"/>
 </p>
 <div align="center"><br>
   <p align="center">
@@ -26,8 +26,8 @@
 <br><br>
 <div align="center">
   <a href="https://github.com/qa-trix">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=qa-trix&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=qa-trix&layout=compact&langs_count=7&theme=midnight-purple"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=qatrixtecnologia&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=qatrixtecnologia&layout=compact&langs_count=7&theme=midnight-purple"/>
 </div>  
  <br><br>
 

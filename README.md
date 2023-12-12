@@ -8,15 +8,12 @@
 <div align="left">
   <p>
       <h3>
-        Somos uma empresa dedicada à qualidade de software,<br>
-        com uma sólida experiência em testes que garante a excelência e a entrega de produtos de software impecáveis.<br>
-        Com um histórico de sucesso na identificação e resolução de bugs, nossa equipe está comprometida com a melhoria contínua dos processos de desenvolvimento,<br>
-        assegurando uma experiência superior para os usuários.<br>
+        Somos uma empresa dedicada à qualidade de software, com uma sólida experiência em testes que garante a excelência e a entrega de produtos de software impecáveis.<br>
+        Com um histórico de sucesso na identificação e resolução de bugs, nossa equipe está comprometida com a melhoria contínua dos processos de desenvolvimento assegurando uma experiência superior para os usuários.<br>
       <h3>
-        Nossa paixão por testes de software vai além do nosso negócio. Estamos empenhados <br>
-        em compartilhar nosso conhecimento com colegas de profissão e ajudá-los a crescer em <br>
-        suas carreiras. Oferecemos treinamento, orientação e mentoria para aqueles que buscam aprimorar <br>
-        suas habilidades em testes e qualidade de software.<br>
+        Nossa paixão por testes de software vai além do nosso negócio.<br>
+        Estamos empenhados em compartilhar nosso conhecimento com colegas de profissão e ajudá-los a crescer em suas carreiras.<br>
+        Oferecemos treinamento, orientação e mentoria para aqueles que buscam aprimorar suas habilidades em testes e qualidade de software.<br>
       <h3>
         Entre em contato conosco para agendar um horário e nos conhecer melhor.<br>
       <h3>

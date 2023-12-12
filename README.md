@@ -17,9 +17,11 @@
       <h3>
         Entre em contato conosco para agendar um horário e nos conhecer melhor.<br>
       <h3>
-        Além de sermos entusiastas da qualidade, somos adeptos da colaboração, do trabalho em equipe e da busca constante pela inovação. Juntos, podemos elevar os padrões da indústria de desenvolvimento de software e garantir que nossos produtos atendam e superem as expectativas dos usuários.<br>
+        Além de sermos entusiastas da qualidade, somos adeptos da colaboração, do trabalho em equipe e da busca constante pela inovação.<br>
+        Juntos, podemos elevar os padrões da indústria de desenvolvimento de software e garantir que nossos produtos atendam e superem as expectativas dos usuários.<br>
       <h3>
-        Se você busca aprimorar suas habilidades em testes de software, otimizar processos de qualidade ou procura soluções para desafios específicos, estamos à disposição para nos conectar, compartilhar insights e trabalhar juntos em projetos de sucesso. Vamos elevar a qualidade do software juntos!<br>
+        Se você busca aprimorar suas habilidades em testes de software, otimizar processos de qualidade ou procura soluções para desafios específicos, estamos à disposição para nos conectar, compartilhar insights e trabalhar juntos em projetos de sucesso.<br>
+        Vamos elevar a qualidade do software juntos!<br>
       <h3>
         https://www.github.io/qatrixtecnologia<br>
         E-mail: qatrixtecnologia@gmail.com<br>

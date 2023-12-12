@@ -23,7 +23,7 @@
         Se você busca aprimorar suas habilidades em testes de software, otimizar processos de qualidade ou procura soluções para desafios específicos, estamos à disposição para nos conectar, compartilhar insights e trabalhar juntos em projetos de sucesso.<br>
         Vamos elevar a qualidade do software juntos!<br>
       <h3>
-        https://www.github.io/qatrixtecnologia<br>
+        https://qatrixtecnologia.github.io<br>
         E-mail: qatrixtecnologia@gmail.com<br>
         Tel: (48) 99105 - 9871.
   </p>
@@ -31,7 +31,7 @@
 
 <p align="center">
 <a href="https://www.linkedin.com/company/qatrixtecnologia/" target="_blank"><img src="https://img.shields.io/badge/-Linkedin-6610F2?style=for-the-badge&logo=Linkedin&logoColor=FFFFFF&link=https://www.linkedin.com/company/qatrixtecnologia/"/>
-<a href="https://qatrixtecnologia.github.io/" target="_blank"><img src="https://img.shields.io/badge/-GitHub.Io-6610F2?style=for-the-badge&logo=Linktree&logoColor=FFFFFF&link=[https://qatrixtecnologia.github.io/]"/> 
+<a href="https://qatrixtecnologia.github.io/" target="_blank"><img src="https://img.shields.io/badge/-GitHub.Io-6610F2?style=for-the-badge&logo=Linktree&logoColor=FFFFFF&link=https://qatrixtecnologia.github.io"/> 
 <a href="https://www.instagram.com/qatrixtecnologia" target="_blank"><img src="https://img.shields.io/badge/-Instagram-6610F2?style=for-the-badge&logo=Instagram&logoColor=FFFFFF&link=https://www.instagram.com/qatrixtecnologia"/>
 </p>
 

@@ -24,8 +24,8 @@
       <h3>
         Se você busca aprimorar suas habilidades em testes de software, otimizar processos de qualidade ou procura soluções para desafios específicos, estamos à disposição para nos conectar, compartilhar insights e trabalhar juntos em projetos de sucesso. Vamos elevar a qualidade do software juntos!<br>
       <h3>
-        Site https://www.github.io/qatrixtecnologia<br>
-        E-mail qatrixtecnologia@gmail.com<br>
+        https://www.github.io/qatrixtecnologia<br>
+        E-mail: qatrixtecnologia@gmail.com<br>
         Tel: (48) 99105 - 9871.
   </p>
 </div>
@@ -55,13 +55,5 @@
   <img align="center" alt="VsCode" height="40" width="40" src="https://skillicons.dev/icons?i=vscode" />
   <img align="center" alt="Android" height="40" width="40" src="https://skillicons.dev/icons?i=androidstudio" />
 </div>
-<br><br>
-<div align="center">
-  <a href="https://github.com/brunogsiq">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=brunogsiq&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunogsiq&layout=compact&langs_count=7&theme=midnight-purple"/>
-</div>  
- <br><br>
-
 <!--
 **qatrixtecnologia/qatrixtecnologia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
